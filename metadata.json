@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder",
+  "description": "Imagine your product across billboards, newspapers, and social posts with consistent aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
